@@ -5,3 +5,5 @@ Rekomendasi:
 - Library Paramiko:
   - install command: pip install paramiko
 - Text Editor menggunakan VScode, bisa juga menggunakan yang lain. 
+- Untuk Virtualisasi bisa menggunakan GNS3, Virtual Machine
+- Paham Dasar Jaringan dan Konfigurasi Perangkat
